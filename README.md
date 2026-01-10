@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 AI & Data Science undergraduate (2024–2028) focused on building practical, data-driven systems, not just learning theory.
 
 I work primarily with Python and C++, applying machine learning, data analysis, and core DSA concepts to real problems—model building, experimentation, and performance-aware coding. My interest lies in taking messy data, extracting insight, and turning it into something usable.
