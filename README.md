@@ -13,14 +13,20 @@
 <br>
 
 ---
+<table>
 
-<p align="center"> <img src="MK.png" width="220" style="border-radius:50%;"/>
+<tr>
 
+<td width="35%" align="center">
 
-### About Me
+<img src="MK.png" width="280">
 
+</td>
 
-Hi, I'm **Mohit Kumar Rana**.
+<td width="65%" valign="top">
+
+<p>
+
 
 I am an AI & Data Science undergraduate passionate about building intelligent systems and extracting meaningful insights from data.
 
@@ -40,14 +46,14 @@ I enjoy experimenting with machine learning models, understanding modern AI arch
 
 - Open to Internships, Research Opportunities and Collaborations
 
+</ul>
 
-<br>
+</td>
 
+</tr>
 
-> *Learning AI by building, experimenting and understanding systems from first principles.*
+</table>
 
-
-<br>
 
 ---
 
