@@ -1,136 +1,120 @@
-# <div align="center">Hi 👋, I'm Mohit Kumar Rana</div>
+<!-- ========================================================= -->
+<!--                    MOHIT KUMAR RANA README                -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-### AI & Data Science Undergraduate • Aspiring Machine Learning Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=68&pause=99999&color=58A6FF&center=true&vCenter=true&width=750&height=110&lines=Mohit+Kumar+Rana" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Data-Driven+Applications;Exploring+Machine+Learning+and+LLMs;Turning+Raw+Data+into+Meaningful+Insights" />
-
-<br>
-
-<a href="https://linkedin.com/in/mohit-kumar-rana-">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mkrana.280504@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=14&pause=1200&color=79C0FF&center=true&vCenter=true&width=950&lines=AI+%26+Data+Science+Undergraduate+%7C+Aspiring+Machine+Learning+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+Data+Analytics;Python+%7C+C%2B%2B+%7C+Statistical+Modeling+%7C+DSA;Open+to+Internships+%7C+Research+Roles+%7C+Open+Source+Collaborations" />
 
 </div>
 
----
-
-# About Me
-
-AI & Data Science undergraduate (2024–2028) interested in building practical machine learning applications and intelligent systems.
-
-My work primarily revolves around **Python**, **Machine Learning**, **Data Analysis**, and **Problem Solving**.
-
-I enjoy experimenting with models, extracting insights from data, and understanding how modern AI systems can be applied to real-world problems.
+<br>
 
 ---
 
-# Areas of Interest
+<p align="center"> <img src="MK.png" width="220" style="border-radius:50%;"/>
 
-```text
-Machine Learning
-Deep Learning
-Large Language Models
-Data Analytics
-Statistical Modeling
-Retrieval-Augmented Generation
-Prompt Engineering
-Data Structures and Algorithms
-```
+
+### About Me
+
+
+Hi, I'm **Mohit Kumar Rana**.
+
+I am an AI & Data Science undergraduate passionate about building intelligent systems and extracting meaningful insights from data.
+
+I enjoy experimenting with machine learning models, understanding modern AI architectures, and solving problems through analytical thinking.
+
+
+
+- B.Tech AI & Data Science (2024 – 2028)
+
+- Aspiring Machine Learning Engineer
+
+- Interested in Data Science, Deep Learning and LLMs
+
+- Strong foundation in Python, C++ and DSA
+
+- Currently learning Transformers, RAG and MLOps
+
+- Open to Internships, Research Opportunities and Collaborations
+
+
+<br>
+
+
+> *Learning AI by building, experimenting and understanding systems from first principles.*
+
+
+<br>
 
 ---
 
 # Tech Stack
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
-
-</p>
-
-### Machine Learning & Data Science
-
-<p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
-### Deep Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-
-</p>
-
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,notion&theme=dark"/>
-
-</p>
-
----
-
-# GitHub Analytics
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Mohit-Rana-Mk&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,tensorflow,pytorch,git,github,linux,vscode,notion&theme=dark&perline=6"/>
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Rana-Mk&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
 
-<img width="70%"
-src="https://streak-stats.demolab.com?user=Mohit-Rana-Mk&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 </div>
 
 ---
 
-# Currently Learning
 
-```text
-Transformers
+# GitHub Statistics
 
-Agentic AI
 
-RAG Pipelines
+<div align="center">
 
-MLOps Fundamentals
 
-Fine-Tuning Techniques
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Mohit-Rana-Mk&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Rana-Mk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+
+<br>
+
+
+<img src="https://streak-stats.demolab.com?user=Mohit-Rana-Mk&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
 
 ---
 
+#  Connect
+
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohit-kumar-rana-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Mohit-Rana-Mk"><img src="https://img.shields.io/badge/GitHub-Mohit--Rana--Mk-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:mkrana.280504@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mohit-Rana-Mk&label=Profile+Views&color=58A6FF&style=flat"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                    END OF README                          -->
+<!-- ========================================================= -->
